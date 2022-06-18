@@ -1,0 +1,34 @@
+,"Miejsce w specyfikacji, gdzie jest błąd",Co jest błędem,Jak powinno być
+,,Wymagane są cztery wersje aplikacji klienckiej - w treści wymienione są tylko trzy,Trzy wersje
+,10,"Pole “Czas” - wyświetla czas do zakończenia rundy (format: gg:mm:ss; godzina, minuta, sekunda, milisekunda) - brak milisekund ",gg:mm:ss
+,"10,11","Szablon “Znalazłem defekt” - w opisie jest ""Zaraportuj defekt""",Zaraportuj defekt
+,"5,13","Instalator aplikacji - program, który zainstaluje aplikację MrBuggy 3 w środowisku docelowym.../...która ma być dostarczona w postaci archiwum “zip”. Rozpakowane archiwum musi zawierać plik wykonawczy",zip
+,7.2.,"login musi składać się z 2 do 8 znaków i zawierać przynajmniej jedną małą literę, jedną wielką literę, jedną cyfrę i jeden znak specjalny – wymagania są 4, a hasło może mieć minimum 2 znaki",4-8
+,7,Język programowania oraz baza danych urzyta podczas tworzenia aplikacji nie są zdefiniowane.,"""użyta"""
+,8,W każdym zdaniu ma być dokładnie jeden defekt.,"""zadaniu"""
+,8,"defektów funkcjonalnych
+ defektów bezpieczeństwa
+ defektów użyteczności ",Defekty użyteczności to defekty funkcjonalne
+,7,"Język programowania oraz baza danych urzyta podczas tworzenia aplikacji nie są zdefiniowane/Aplikacja serwerowa ma zostać stworzona przy
+wykorzystaniu języka Java7",Java 7
+,11,Okno - brak ikonki MrBuggy3,nazwa na pasku = ikona
+,"10,11","Pole “Opis problemu” - zawiera ogólną informację na temat zadania wyświetlonego w polu “Zadania” wraz z ilością punktów za dane zadanie - jest ""Opis zadania""",Opis zadania
+,11,"Brak opisu przycisku ""Status połączenia""",
+,12,Hasło musi składać się z co najmniej 20 znaków,Zbyt duża ilość znaków - min. 8
+,13,Konto musi zostać zablokowane po 3 krotnym wpisaniu błędnego hasła lub jego części,"Bez ""lub jego części"""
+,"8,1",Tryby różnią się możliwością raportowania defektów. W trybie członka drużyny możliwość ta jest zablokowana... / ...a postępu użytkownika w przypadku awarii) oraz wysyłany jest raport defektu do części serwerowej aplikacji. Funkcja ta jest dostępna we wszystkich trybach pracy aplikacji.,W trybie członka drużyny raportowanie zablokowane
+,"7, 11","Dane z części klienckiej dostarczane są do części serwerowej w postaci pliku tekstowego./Po wciśnięciu przycisku “Zakończ” wszystkie dane dotyczące
+użytkownika oraz rozwiązanych przez niego zadań testowych eksportowane do pliku binarnego.",Plik tekstowy
+,9,"Brak szczegółowego opisu procesu raportowania defektów przez zawodników, przez co niemożliwe jest zaplanowanie funkcjonalności automatycznej oceny zadań przesłanych przez zawodników",
+,13,w ciągu roku średnia ilość awarii (rozumianych jako ilość niespodziewanych wyłączeń aplikacji wymagających skorzystania z kopii zapasowej) w jednym dniu nie może być większa niż 1,
+,10,"Defekty normalne (od 3 do 4 pkt), defekty krytyczne (od 4 do 6 pkt)”",Defekty krytyczne (od 5 do 6 pkt)
+,10,Nawigacja pionowa boczna aplikacji znajduje się po prawej stronie okna aplikacji.,
+,13,Przełączanie pomiędzy zadaniami nie może być dłuższe niż 1 sekunda,"Wymaganie wydajnościowe, nie niezawodności"
+,7,Brak określenia wymagającej wersji środowiska 32/64 bit,32
+,10,"Wysyłanie raportu defektu do części serwerowej po każdorazowym kliknięciu przycisku ""zaraportuj defekt"". ",Wysyłanie raportu defektu po jego wypełnieniu
+,10,Przycisk Zaraportuj defekt. [...] ta jest dostępna we wszystkich trybach pracy aplikacji.,Funkcja niedostępna w trybie członka drużyny
+,10,"Przyciski nawigacyjne - “Następne” i “Poprzednie” umożliwiają przeniesienie
+się do odpowiednio bieżącego, następnego i poprzedniego zadania.","2 przyciski, 3 funkcjonalnosci - bez ""bieżącego"""
+,10,Pole “Nr zadania” - podaje numer zadania wyświetlonego w oknie “Zadania”. Zasady numeracji zadań są opisane poniżej.,Brak opisu zasad numeracji
+,9,"Przycisk ""Zakończ"" w aplikacji klienckiej opisano jako zakończenie pracy nad wszystkimi zadaniami i wysłanie odpowiedzi do oceny. Jest to nieścisłość, punkt wyżej sugeruje wysyłanie raportów każdorazowo po rozwiązaniu zadania",Każdorazowo
+,12,Wielkość pliku z kopią zapasową aplikacji klienckiej nie może przekraczać 2MB1,2MB
