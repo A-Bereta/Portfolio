@@ -1,5 +1,5 @@
 # About me
-Hi, my name is Adrianna. I am a novice software tester with a little bit of experience gained during Software Developement Academy course and on uTest.com platform. I aim at improving my skills and knowledge in the software testing field and starting a new career in the IT industry.
+Hi, my name is Adrianna. I am a novice software tester with a little bit of experience gained during the Software Developement Academy course and on uTest.com platform. I aim at improving my skills and knowledge in the software testing field and starting a new career in the IT industry.
 
 ## Tools 
 - Screenpresso - Screen capture software
