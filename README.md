@@ -19,7 +19,7 @@ Hi, my name is Adrianna. I am a novice software tester with a little bit of expe
 - Basic knowledge of BDD, Gherkin, Cucumber
 
 ## Courses
-[Software Developement Academy - Tester oprogramowania](https://sdacademy.pl/kursy/software-tester/) *(in progress)*
+[Software Developement Academy - Tester oprogramowania](https://sdacademy.pl/kursy/software-tester/) 
 
 [Udemy - Praktyczny kurs testowania oprogramowania](https://udemy-certificate.s3.amazonaws.com/pdf/UC-68f06a09-6716-4d89-95c0-e30d8f37cebb.pdf)
 
